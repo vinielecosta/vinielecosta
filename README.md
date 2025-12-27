@@ -17,8 +17,7 @@ _B.Sc. Candidate in Data Science and Artificial Intelligence at [UniDomBosco](ht
 ![Kanban](https://img.shields.io/badge/Agile%20Methodologies-Kanban-informational?style=flat&logo=trello&color=FFDB58)<br>
 ![Neovim Enthusiast](https://img.shields.io/badge/Neovim-Enthusiast-57A143?style=flat&logo=neovim&logoColor=white)
 
-![Viniciuseleuterio GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinielecosta&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinielecosta&show_icons=true&theme=tokyonight)
 
 
 
